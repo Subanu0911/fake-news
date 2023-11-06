@@ -24,6 +24,7 @@ pip install -r requirements.txt
 # Installation 
 1.Clone this repository to your local machine: 
 git clone https://github.com/Subanu0911/fake-news.git 
-2.Navigate to the project directory: cd fake-news-detection 
+2.Navigate to the project directory: 
+cd fake-news-detection 
 # Usage The primary functionalities of this project are divided into two main steps: data preparation and model training. 
 # Data You will need labeled data for both real and fake news articles. This data should be in a suitable format, such as CSV, with co
